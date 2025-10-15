@@ -263,7 +263,7 @@ export default function WeatherApp() {
 
         {/* API Key Notice */}
         <div className="mt-8 text-center text-white/60 text-sm">
-          <p>to know more about  <a href="https://openweathermap.org/api" target="_blank" rel="noopener noreferrer" className="underline hover:text-white/80">OpenWeatherMap</a></p>
+          <p>To know more about us <a href="https://fran-tech-nine.vercel.app/" target="_blank" rel="noopener noreferrer" className="underline hover:text-white/80">OpenWeatherMap</a></p>
         </div>
       </div>
     </div>
